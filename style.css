@@ -247,3 +247,9 @@ h3 {
     font-style: normal;
     font-size: 20px;
 }
+
+.card-link {
+  text-decoration: none;
+  color: inherit; /* Или другой цвет */
+  display: block; /* Позволяет ссылке вести себя как блок, чтобы она занимала всю ширину карточки */
+}
